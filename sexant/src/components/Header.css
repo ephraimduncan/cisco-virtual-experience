@@ -1,0 +1,15 @@
+nav {
+    padding: 0;
+    background: #0c0d0f;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    display: block;
+    padding: 15px;
+    color: white;
+}
