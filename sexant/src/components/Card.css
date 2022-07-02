@@ -1,0 +1,21 @@
+.wrapper {
+    position: absolute;
+    max-width: 300px;
+    background: #fff;
+    border: 3px solid #fca311;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 1px 7px 14px -5px rgba(0, 0, 0, 0.15);
+}
+
+.content header {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.content p {
+    text-align: justify;
+    color: #858585;
+    margin: 5px 0 5px 0;
+}
